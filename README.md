@@ -15,7 +15,7 @@ Google: *"the worst website"*.
 - Responsive design
 - Minder kleur
 - Overzichtelijker
-- te druk
+- Te druk
 - Laad traag
 - Geen structuur
 
