@@ -15,13 +15,14 @@ Google: *"the worst website"*.
 - Responsive design
 - Minder kleur
 - Overzichtelijker
-- e druk
+- te druk
 - Laad traag
 - Geen structuur
 
 https://www.theworldsworstwebsiteever.com/new_page_1.htm
 
-**Is deze website aanwezig op sociale netwerken?**  
+**Is deze website aanwezig op sociale netwerken?** 
+
 Nee, de website is niet te vinden op sociale netwerken.
 
 **Maak een lijst met aanbevelingen van toekomstige wijzigingen.**  
