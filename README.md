@@ -1,15 +1,14 @@
-# markdown-warm-up
+markdown-warm-up
+======
+**Website: [theworldsworstwebsiteever](https://www.theworldsworstwebsiteever.com/)**
 
-Welke website heeft u gevonden? (naam, url, link).
-Theworldsworstwebsiteever https://www.theworldsworstwebsiteever.com/
-
-Wordt het regelmatig bijgewerkt?
+**Wordt het regelmatig bijgewerkt?**
 Nee, in 2017 was het 3 jaar geleden toen de website nog werd geupdated
 
-Hoe heb je het gevonden ?
+**Hoe heb je het gevonden ?**
 Google: "the worst website"
 
-Waarom heeft deze website updates of een remake nodig?
+**Waarom heeft deze website updates of een remake nodig?**
 Responsive design
 Minder kleur
 Overzichtelijker
@@ -18,10 +17,10 @@ Laad traag
 Geen structuur
 https://www.theworldsworstwebsiteever.com/new_page_1.htm
 
-Is deze website aanwezig op sociale netwerken?
+**Is deze website aanwezig op sociale netwerken?**
 Nee
 
-Maak een lijst met aanbevelingen van toekomstige wijzigingen.
+**Maak een lijst met aanbevelingen van toekomstige wijzigingen.**
 Schrijffouten
 Overzichtelijker maken
 Main menu vanboven zetten
