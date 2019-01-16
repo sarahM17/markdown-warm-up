@@ -4,7 +4,7 @@ markdown-warm-up
 
 **Wordt het regelmatig bijgewerkt?**  
 
-Nee, in 2017 was het 3 jaar geleden toen de website nog werd geupdated.
+Nee, in 2017 was het **3 jaar** geleden toen de website nog werd geupdated.
 
 **Hoe heb je het gevonden ?**  
 
@@ -27,10 +27,13 @@ Nee, de website is niet te vinden op sociale netwerken.
 
 **Maak een lijst met aanbevelingen van toekomstige wijzigingen.**  
 
-- Schrijffouten
-- Overzichtelijker maken
-- Main menu vanboven zetten
-- Nutteloze links verwijderen
-- Juist formaat foto's
-- Leesbaarheid
-
+-Schrijffouten
+-Overzichtelijker maken
+-Main menu vanboven zetten
+-Nutteloze links verwijderen
+-Minder kleur
+-Juist formaat foto's
+-Leesbare letter kleur
+-Uniforme achtergrond, non-repeat
+-Juist formaat foto's 
+-Leesbaarheid
