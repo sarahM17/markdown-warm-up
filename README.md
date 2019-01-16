@@ -19,8 +19,10 @@ Google: *"the worst website"*.
 - Te druk
 - Laad traag
 - Geen structuur
-
-https://www.theworldsworstwebsiteever.com/new_page_1.htm
+- Foto's hebben een verkeerd formaat
+- Sommigen links werken niet
+- Spelfouten
+- [Volledige lijst](https://www.theworldsworstwebsiteever.com/new_page_1.htm)
 
 **Is deze website aanwezig op sociale netwerken?** 
 
@@ -36,5 +38,4 @@ Nee, de website is niet te vinden op sociale netwerken.
 - Juist formaat foto's
 - Leesbare letter kleur
 - Uniforme achtergrond, non-repeat
-- Juist formaat foto's 
 - Leesbaarheid
