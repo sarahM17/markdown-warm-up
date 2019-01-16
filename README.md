@@ -1,4 +1,5 @@
-markdown-warm-up
+# markdown-warm-up
+======
 
 **Website: [theworldsworstwebsiteever](https://www.theworldsworstwebsiteever.com/)**
 
@@ -27,13 +28,13 @@ Nee, de website is niet te vinden op sociale netwerken.
 
 **Maak een lijst met aanbevelingen van toekomstige wijzigingen.**  
 
--Schrijffouten
--Overzichtelijker maken
--Main menu vanboven zetten
--Nutteloze links verwijderen
--Minder kleur
--Juist formaat foto's
--Leesbare letter kleur
--Uniforme achtergrond, non-repeat
--Juist formaat foto's 
--Leesbaarheid
+- Schrijffouten
+- Overzichtelijker maken
+- Main menu vanboven zetten
+- Nutteloze links verwijderen
+- Minder kleur
+- Juist formaat foto's
+- Leesbare letter kleur
+- Uniforme achtergrond, non-repeat
+- Juist formaat foto's 
+- Leesbaarheid
